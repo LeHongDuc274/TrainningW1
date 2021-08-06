@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/name"
+        android:title="Sort by name" />
+    <item
+        android:id="@+id/year"
+        android:title="Sort by year" />
+    <item
+        android:id="@+id/phone"
+        android:title="Sort by phone number" />
+    <item
+        android:id="@+id/specicalized"
+        android:title="Sort by specialized" />
+    <item
+        android:id="@+id/university"
+        android:title="Sort by university" />
+</menu>
